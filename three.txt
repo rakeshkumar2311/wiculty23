@@ -1,5 +1,0 @@
-Hi this is three.txt file
-..
-
-...
-updated file
