@@ -1,0 +1,1 @@
+this c.txt file is created for fetch process
